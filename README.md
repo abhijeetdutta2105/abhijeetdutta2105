@@ -32,7 +32,6 @@
 
 
 
-
 <h3 align="center">Connect with me 🤝</h3>
 <body>
     <div class="img1">

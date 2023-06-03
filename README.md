@@ -27,7 +27,7 @@
 
 
 
-  
+  ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhijeetdutta2105&column=9&margin-w=1&margin-h=1&no-bg=true&no-frame=true&theme=juicyfresh)
  <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetdutta2105&count_private=true&show_icons=true&theme=dark" width="450">
 
 
